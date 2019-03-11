@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="106567" started-at="2019-03-11T10:46:25Z" finished-at="2019-03-11T10:48:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="106567" started-at="2019-03-11T10:46:25Z" finished-at="2019-03-11T10:48:12Z">
+      <class name="com.training.sanity.tests.TC30_DeleteRegion">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.TC30_DeleteRegion@47c62251]" name="setUpBeforeClass" is-config="true" duration-ms="36" started-at="2019-03-11T10:46:25Z" finished-at="2019-03-11T10:46:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.TC30_DeleteRegion@47c62251]" name="setUp" is-config="true" duration-ms="47608" started-at="2019-03-11T10:46:25Z" finished-at="2019-03-11T10:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="delreg()[pri:0, instance:com.training.sanity.tests.TC30_DeleteRegion@47c62251]" name="delreg" duration-ms="27326" started-at="2019-03-11T10:47:13Z" finished-at="2019-03-11T10:47:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delreg -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.TC30_DeleteRegion@47c62251]" name="tearDown" is-config="true" duration-ms="31560" started-at="2019-03-11T10:47:40Z" finished-at="2019-03-11T10:48:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.sanity.tests.TC30_DeleteRegion -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
